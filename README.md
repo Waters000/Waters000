@@ -6,7 +6,8 @@
 
 [![Waters000 GitHub stats](https://github-readme-stats.vercel.app/api?username=waters000)](https://github.com/waters000/github-readme-stats)
 
-api/pin?username=waters000&repo=github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waters000)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
