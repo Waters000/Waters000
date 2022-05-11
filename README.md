@@ -6,6 +6,9 @@
 
 [![Waters000 GitHub stats](https://github-readme-stats.vercel.app/api?username=waters000)](https://github.com/waters000/github-readme-stats)
 
+[![Waters000 GitHub stats](https://github-readme-stats.vercel.app/api?username=waters000)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!---
