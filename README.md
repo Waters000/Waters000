@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Waters000
 - 👀 I’m a ... full stack developer.
-- 🌱 I’m currently learning ...java
+- 🌱 I’m currently learning ...everything and anything.  
 - 💞️ I’m looking to collaborate on ...any new project.
 - 📫 How to reach me ...floridarealty001@gmail.com
 
