@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Waters000
+- View my Portfolio: https://waters000.github.io/Chris-Waters-Portfolio/
+- Another Portfolio React.js: https://waters000.github.io/Portfolio-Chris/#portfolio
 - 👀 I’m a ... full stack developer.
-- 🌱 I’m currently learning ...everything and anything.  
+- 🌱 I’m always learning ...everything and anything.  
 - 💞️ I’m looking to collaborate on ...any new project.
 - 📫 How to reach me ...floridarealty001@gmail.com
 
